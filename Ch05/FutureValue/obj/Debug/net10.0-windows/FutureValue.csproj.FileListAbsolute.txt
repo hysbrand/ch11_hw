@@ -1,0 +1,16 @@
+C:\C#\Ch05\FutureValue\bin\Debug\net10.0-windows\FutureValue.exe
+C:\C#\Ch05\FutureValue\bin\Debug\net10.0-windows\FutureValue.deps.json
+C:\C#\Ch05\FutureValue\bin\Debug\net10.0-windows\FutureValue.runtimeconfig.json
+C:\C#\Ch05\FutureValue\bin\Debug\net10.0-windows\FutureValue.dll
+C:\C#\Ch05\FutureValue\bin\Debug\net10.0-windows\FutureValue.pdb
+C:\C#\Ch05\FutureValue\obj\Debug\net10.0-windows\FutureValue.Form1.resources
+C:\C#\Ch05\FutureValue\obj\Debug\net10.0-windows\FutureValue.csproj.GenerateResource.cache
+C:\C#\Ch05\FutureValue\obj\Debug\net10.0-windows\FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ch05\FutureValue\obj\Debug\net10.0-windows\FutureValue.AssemblyInfoInputs.cache
+C:\C#\Ch05\FutureValue\obj\Debug\net10.0-windows\FutureValue.AssemblyInfo.cs
+C:\C#\Ch05\FutureValue\obj\Debug\net10.0-windows\FutureValue.csproj.CoreCompileInputs.cache
+C:\C#\Ch05\FutureValue\obj\Debug\net10.0-windows\FutureValue.dll
+C:\C#\Ch05\FutureValue\obj\Debug\net10.0-windows\refint\FutureValue.dll
+C:\C#\Ch05\FutureValue\obj\Debug\net10.0-windows\FutureValue.pdb
+C:\C#\Ch05\FutureValue\obj\Debug\net10.0-windows\FutureValue.genruntimeconfig.cache
+C:\C#\Ch05\FutureValue\obj\Debug\net10.0-windows\ref\FutureValue.dll
